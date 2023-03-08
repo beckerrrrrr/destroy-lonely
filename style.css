@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+    body{
+       background-color: black;
+        font-family: 'Gloock', serif;
+    }
+
+    h1{
+        font-size: 20px;
+        color: red;
+    }
+    
+
+.bg-video{
+    height: 100vh;
+    width: 100vw;
+}
+.video-text{
+    position: absolute;
+    color: white;
+    font-size: 100px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-78%, -90%);
+    width: 800px;
+
+}
